@@ -12,7 +12,7 @@
   </a>
 </p>
 
-**appy** is a full featured boilerplate web app designed as an end to end solution for mvp development. The front end is built on [Vue.js](https://vuejs.org) and utilizes the [AdminLTE](https://almsaeedstudio.com) UI template. The backend implements a hapi server (via [rest-hapi](https://github.com/JKHeadley/rest-hapi)) with a MongoDB datastore. 
+**appy** is a full featured boilerplate web app designed as an end to end solution for mvp development. The frontend is built on [Vue.js](https://vuejs.org) and utilizes the [AdminLTE](https://almsaeedstudio.com) UI template. The backend implements a hapi server (via [rest-hapi](https://github.com/JKHeadley/rest-hapi)) with a MongoDB datastore. 
 
 ![appy-dashboard](https://user-images.githubusercontent.com/12631935/39155220-f691c77e-4705-11e8-9b83-2129a07c6d35.png)
 
@@ -125,7 +125,8 @@ Point your browser to http://localhost:3000/ to view the app, or click on one of
 
 **<a href="http://localhost:3000/login?email=test@superadmin.com&password=root" target="_blank">Super Admin</a>**
 
-
+## Temporary Docs
+Official docs for appy are coming soon, but for now you can find some information in the [appy-backend wiki](https://github.com/JKHeadley/appy-backend/wiki)
 
 License
 -------
